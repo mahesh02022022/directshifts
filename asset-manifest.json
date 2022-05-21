@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mahesh02022022/directshifts/static/css/main.bdfb6495.css",
+    "main.js": "/mahesh02022022/directshifts/static/js/main.cbdf464b.js",
+    "index.html": "/mahesh02022022/directshifts/index.html",
+    "main.bdfb6495.css.map": "/mahesh02022022/directshifts/static/css/main.bdfb6495.css.map",
+    "main.cbdf464b.js.map": "/mahesh02022022/directshifts/static/js/main.cbdf464b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdfb6495.css",
+    "static/js/main.cbdf464b.js"
+  ]
+}
